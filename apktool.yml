@@ -1,0 +1,203 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Champion Chess_10.2.5_APKPure.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.drawerlayout_drawerlayout.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.legacy_legacy-support-core-ui.version
+- META-INF/androidx.legacy_legacy-support-core-utils.version
+- META-INF/androidx.legacy_legacy-support-v4.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+- META-INF/androidx.media_media.version
+- META-INF/androidx.print_print.version
+- META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/com.google.dagger_dagger.version
+- assets/UnityServicesProjectConfiguration.json
+- assets/aggressive.bin
+- assets/balanced.bin
+- assets/beginner.bin
+- assets/certificate.p12
+- assets/classical.bin
+- assets/f-pawner.bin
+- assets/gambit.bin
+- assets/google-services-desktop.json
+- assets/google-services.json
+- assets/indian.bin
+- assets/offbeat.bin
+- assets/positional.bin
+- assets/quick_queen.bin
+- assets/winger.bin
+- assets/bin/Data/data.unity3d
+- assets/bin/Data/datapack.unity3d
+- assets/bin/Data/resources.resource
+- assets/bin/Data/sharedassets1.resource
+- assets/bin/Data/Managed/AndroidRuntimePermissions.Runtime.pdb
+- assets/bin/Data/Managed/Assembly-CSharp.pdb
+- assets/bin/Data/Managed/IngameDebugConsole.Runtime.pdb
+- assets/bin/Data/Managed/NativeCamera.Runtime.pdb
+- assets/bin/Data/Managed/Newtonsoft.Json.pdb
+- assets/bin/Data/Managed/Purchasing.Common.pdb
+- assets/bin/Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.pdb
+- assets/bin/Data/Managed/UniRx.pdb
+- assets/bin/Data/Managed/Unity.Mathematics.pdb
+- assets/bin/Data/Managed/Unity.Postprocessing.Runtime.pdb
+- assets/bin/Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.pdb
+- assets/bin/Data/Managed/Unity.RenderPipelines.Core.Runtime.pdb
+- assets/bin/Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.pdb
+- assets/bin/Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.pdb
+- assets/bin/Data/Managed/Unity.RenderPipelines.Universal.Runtime.pdb
+- assets/bin/Data/Managed/Unity.RenderPipelines.Universal.Shaders.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Analytics.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Configuration.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Device.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Environments.Internal.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Environments.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Internal.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Networking.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Registration.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Scheduler.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Telemetry.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.Threading.pdb
+- assets/bin/Data/Managed/Unity.Services.Core.pdb
+- assets/bin/Data/Managed/Unity.TextMeshPro.pdb
+- assets/bin/Data/Managed/UnityEngine.AIModule.pdb
+- assets/bin/Data/Managed/UnityEngine.ARModule.pdb
+- assets/bin/Data/Managed/UnityEngine.AccessibilityModule.pdb
+- assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.pdb
+- assets/bin/Data/Managed/UnityEngine.AnimationModule.pdb
+- assets/bin/Data/Managed/UnityEngine.AssetBundleModule.pdb
+- assets/bin/Data/Managed/UnityEngine.AudioModule.pdb
+- assets/bin/Data/Managed/UnityEngine.ClothModule.pdb
+- assets/bin/Data/Managed/UnityEngine.CoreModule.pdb
+- assets/bin/Data/Managed/UnityEngine.CrashReportingModule.pdb
+- assets/bin/Data/Managed/UnityEngine.DSPGraphModule.pdb
+- assets/bin/Data/Managed/UnityEngine.DirectorModule.pdb
+- assets/bin/Data/Managed/UnityEngine.GIModule.pdb
+- assets/bin/Data/Managed/UnityEngine.GameCenterModule.pdb
+- assets/bin/Data/Managed/UnityEngine.GridModule.pdb
+- assets/bin/Data/Managed/UnityEngine.HotReloadModule.pdb
+- assets/bin/Data/Managed/UnityEngine.IMGUIModule.pdb
+- assets/bin/Data/Managed/UnityEngine.ImageConversionModule.pdb
+- assets/bin/Data/Managed/UnityEngine.InputLegacyModule.pdb
+- assets/bin/Data/Managed/UnityEngine.InputModule.pdb
+- assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.pdb
+- assets/bin/Data/Managed/UnityEngine.LocalizationModule.pdb
+- assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.pdb
+- assets/bin/Data/Managed/UnityEngine.PerformanceReportingModule.pdb
+- assets/bin/Data/Managed/UnityEngine.Physics2DModule.pdb
+- assets/bin/Data/Managed/UnityEngine.PhysicsModule.pdb
+- assets/bin/Data/Managed/UnityEngine.ProfilerModule.pdb
+- assets/bin/Data/Managed/UnityEngine.Purchasing.AppleCore.pdb
+- assets/bin/Data/Managed/UnityEngine.Purchasing.AppleMacosStub.pdb
+- assets/bin/Data/Managed/UnityEngine.Purchasing.AppleStub.pdb
+- assets/bin/Data/Managed/UnityEngine.Purchasing.Codeless.pdb
+- assets/bin/Data/Managed/UnityEngine.Purchasing.Security.pdb
+- assets/bin/Data/Managed/UnityEngine.Purchasing.SecurityCore.pdb
+- assets/bin/Data/Managed/UnityEngine.Purchasing.Stores.pdb
+- assets/bin/Data/Managed/UnityEngine.Purchasing.WinRTCore.pdb
+- assets/bin/Data/Managed/UnityEngine.Purchasing.WinRTStub.pdb
+- assets/bin/Data/Managed/UnityEngine.Purchasing.pdb
+- assets/bin/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb
+- assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.pdb
+- assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.pdb
+- assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.pdb
+- assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.pdb
+- assets/bin/Data/Managed/UnityEngine.StreamingModule.pdb
+- assets/bin/Data/Managed/UnityEngine.SubstanceModule.pdb
+- assets/bin/Data/Managed/UnityEngine.SubsystemsModule.pdb
+- assets/bin/Data/Managed/UnityEngine.TLSModule.pdb
+- assets/bin/Data/Managed/UnityEngine.TerrainModule.pdb
+- assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.pdb
+- assets/bin/Data/Managed/UnityEngine.TextCoreModule.pdb
+- assets/bin/Data/Managed/UnityEngine.TextRenderingModule.pdb
+- assets/bin/Data/Managed/UnityEngine.TilemapModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UI.pdb
+- assets/bin/Data/Managed/UnityEngine.UIElementsModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UIElementsNativeModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UIModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UNETModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UmbraModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UnityConnectModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UnityCurlModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UnityTestProtocolModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb
+- assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb
+- assets/bin/Data/Managed/UnityEngine.VFXModule.pdb
+- assets/bin/Data/Managed/UnityEngine.VRModule.pdb
+- assets/bin/Data/Managed/UnityEngine.VehiclesModule.pdb
+- assets/bin/Data/Managed/UnityEngine.VideoModule.pdb
+- assets/bin/Data/Managed/UnityEngine.WindModule.pdb
+- assets/bin/Data/Managed/UnityEngine.XRModule.pdb
+- assets/bin/Data/Managed/UnityEngine.pdb
+- assets/bin/Data/Managed/UnityGifDecoder.pdb
+- assets/bin/Data/Managed/Zenject.pdb
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '33'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  billing.properties: '8'
+  firebase-analytics.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-crashlytics.properties: '8'
+  firebase-encoders-json.properties: '8'
+  firebase-encoders.properties: '8'
+  firebase-installations-interop.properties: '8'
+  firebase-installations.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  transport-api.properties: '8'
+  transport-backend-cct.properties: '8'
+  transport-runtime.properties: '8'
+  stamp-cert-sha256: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0-dirty
+versionInfo:
+  versionCode: '46'
+  versionName: 10.2.5
