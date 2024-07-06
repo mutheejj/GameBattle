@@ -1,10 +1,16 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "MyChess"
 include ':app'
-project(':GameBattle').projectDir = new File(rootDir, 'app/')
-project(':app:Exclr8Module').projectDir = new File(rootDir, 'App-Module/Module/app/Exclr8Module/')
-project(':new').projectDir = new File(rootDir, 'App-Module/Module/app/')
-include ':GameBattle'
-include ':app', ':GameBattle'
-include ':app:Exclr8Module'
-include ':new'
-include ':gamebattle'
-include ':build.gradle.kts'
