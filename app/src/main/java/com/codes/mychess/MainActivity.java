@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void buttonClickGameRules (View view)
     {
-        Uri uri = Uri.parse("https://www.officialgamerules.org/chess");
+        Uri uri = Uri.parse("https://mutheejj.github.io/atomic-landing-page/");
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }

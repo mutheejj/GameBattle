@@ -46,7 +46,7 @@ public class aboutActivity extends AppCompatActivity {
 
     public void buttonClickGitHub (View view)
     {
-        Uri uri = Uri.parse("https://github.com/dbrandstetter/MyChess.git");
+        Uri uri = Uri.parse("https://github.com/mutheejj/GameBattle.git");
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }
