@@ -18,7 +18,7 @@ To install and run the Game Battle app on your local machine, follow these steps
 Open the project in Android Studio:
 
 2. **Launch Android Studio:**
-```
+   
    Click on "Open an existing Android Studio project."
    Navigate to the cloned repository and select it.
    Build the project:
@@ -42,27 +42,28 @@ Open the project in Android Studio:
    Click the "Fork" button at the top right of the repository page on GitHub.
 
    Clone your fork:
-   ```
-   git clone https://github.com/your-username/GameBattle.git
-   cd Gamebattle
+      ```
+      git clone https://github.com/your-username/GameBattle.git
+      cd Gamebattle
    Create a branch:
-
-   git checkout -b feature/your-feature-name
+      ```
+      git checkout -b feature/your-feature-name
    Make your changes and commit them:
 
-
-   git add .
-   git commit -m "Add feature: your feature description"
+      ```
+      git add .
+      git commit -m "Add feature: your feature description"
    Push to your fork:
-
-   git push origin feature/your-feature-name
-   Create a pull request:
+      ```
+      git push origin feature/your-feature-name
+      Create a pull request:
    Go to the original repository on GitHub and click "New pull request."
 
-**Related apps**
+##Related apps
 Check out these related apps:
 
-[Champion chess] (https://play.google.com/store/apps/details?id=com.chess.champ&hl=en_US)
-**Licensing**
+[**Champion chess**] (https://play.google.com/store/apps/details?id=com.chess.champ&hl=en_US)
+
+##LICENCING
 This project is licensed under the MIT License. See the LICENSE file for details. https://opensource.org/licenses/MIT
 
