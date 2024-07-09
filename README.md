@@ -92,10 +92,11 @@ Throughout the development process, I faced several technical and non-technical 
 ## Next Steps
 For future iterations of "Game Battle," I envision several key improvements and additions:
 
-    - Implementing a chess engine: Developing an AI-powered chess engine to provide challenging computer opponents and enable single-player mode.
-    - Adding online multiplayer: Integrating online features to allow players to challenge each other in real-time over the internet.
-    - Enhancing the user interface: Refining the UI with more intuitive controls, animations, and visual effects to create an even more immersive gaming experience.
-    - Implementing game modes: Introducing different game modes, such as timed games, tournaments, and puzzles, to add variety and cater to different player preferences.
-    - Providing player statistics and rankings: Tracking player statistics, such as win-loss records and rating, and displaying player rankings to foster a sense of progression and competition.
+    Implementing a chess engine: Developing an AI-powered chess engine to provide challenging computer opponents and enable single-player mode.
+    Adding online multiplayer: Integrating online features to allow players to challenge each other in real-time over the internet.
+    Enhancing the user interface: Refining the UI with more intuitive controls, animations, and visual effects to create an even more immersive gaming experience.
+    Implementing game modes: Introducing different game modes, such as timed games, tournaments, and puzzles, to add variety and cater to different player preferences.
+    Providing player statistics and rankings: Tracking player statistics, such as win-loss records and rating, and displaying player rankings to foster a sense of progression and competition.
+
 
 By continuously enhancing the game's features and functionality, I aim to create a comprehensive and engaging chess platform that will appeal to a wide range of players, from casual enthusiasts to seasoned strategists.
