@@ -71,14 +71,19 @@ This project is licensed under the MIT License. See the [LICENSE](https://openso
 
 Game Battle was inspired by my lifelong passion for chess and strategic games. I've always enjoyed the intellectual challenge and depth that chess offers, and this project was an opportunity to combine my love for the game with my skills in software development. The goal was to create an engaging and interactive platform where players can enjoy chess battles, improve their strategic thinking, and challenge themselves against other players. The inspiration came from the desire to make a classic game accessible and exciting in a modern digital format. I set out to tackle the technical challenge of implementing the core chess mechanics and ensuring that the game adheres to the rules of chess. This involved developing robust algorithms for move validation, handling edge cases like castling and en passant, and enforcing checkmate and draw conditions. Additionally, I wanted to create a visually appealing and responsive user interface that would provide a seamless gaming experience on Android devices.
 ## Technical Details
-Game Battle is built using Java for the core game logic, leveraging its robust object-oriented capabilities. The front-end interface is developed for Android using Android Studio, employing ConstraintLayout for responsive and flexible design. The project follows an MVC (Model-View-Controller) architecture to separate concerns and enhance maintainability. The Model handles the game logic and state, the View is responsible for the user interface, and the Controller manages the communication between the Model and View. One of the core algorithms in "Game Battle" is the move validation algorithm for the chess pieces. This algorithm ensures that each move made by a player adheres to the rules of chess. Code Snippet: Move Validation for a Knight
 
-   ```
-   public boolean isValidKnightMove(int startX, int startY, int endX, int endY) {
-      int dx = Math.abs(startX - endX);
-      int dy = Math.abs(startY - endY);
-      return (dx == 2 && dy == 1) || (dx == 1 && dy == 2);
-      }
+"Game Battle" is built using Java for the core game logic, leveraging its robust object-oriented capabilities. The front-end interface is developed for Android using Android Studio, employing ConstraintLayout for responsive and flexible design. The project follows an MVC (Model-View-Controller) architecture to separate concerns and enhance maintainability. The Model handles the game logic and state, the View is responsible for the user interface, and the Controller manages the communication between the Model and View. 
+
+One of the core algorithms in "Game Battle" is the move validation algorithm for the chess pieces. This algorithm ensures that each move made by a player adheres to the rules of chess. 
+
+### Code Snippet: Move Validation for a Knight
+   
+public boolean isValidKnightMove(int startX, int startY, int endX, int endY) {
+    int dx = Math.abs(startX - endX);
+    int dy = Math.abs(startY - endY);
+    return (dx == 2 && dy == 1) || (dx == 1 && dy == 2);
+}
+
 
 This method checks if the move from (startX, startY) to (endX, endY) is valid for a knight, which moves in an L-shape.
 Challenges and Learnings
