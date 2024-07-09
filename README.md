@@ -1,4 +1,4 @@
-![] (app/src/main/res/drawable-v24/app_icon.png)
+![Game Battle Icon](app/src/main/res/drawable-v24/app_icon.png)
 # Game Battle
 
 ## Introduction
@@ -58,3 +58,10 @@ Open the project in Android Studio:
       git push origin feature/your-feature-name
       Create a pull request:
    Go to the original repository on GitHub and click "New pull request."
+### Related Apps
+Check out these related apps:
+
+- [Champion Chess](https://play.google.com/store/apps/details?id=com.chess.champ&hl=en_US)
+
+## Licensing
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
