@@ -12,13 +12,13 @@ Welcome to Game Battle, an engaging and visually appealing chess game for Androi
 To install and run the Game Battle app on your local machine, follow these steps:
 
 1. **Clone the repository:**
-   '''
+   ```
    git clone https://github.com/mutheejj/GameBattle
    cd GameBattle
 Open the project in Android Studio:
 
 2. **Launch Android Studio:**
-'''
+```
    Click on "Open an existing Android Studio project."
    Navigate to the cloned repository and select it.
    Build the project:
@@ -42,7 +42,7 @@ Open the project in Android Studio:
    Click the "Fork" button at the top right of the repository page on GitHub.
 
    Clone your fork:
-   '''
+   ```
    git clone https://github.com/your-username/GameBattle.git
    cd Gamebattle
    Create a branch:
