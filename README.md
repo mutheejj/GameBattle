@@ -90,13 +90,13 @@ Challenges and Learnings
 Throughout the development process, I faced several technical and non-technical challenges. Implementing the move validation logic and ensuring that all chess rules were correctly enforced required a deep understanding of chess mechanics and extensive coding to handle all possible moves and scenarios. Maintaining smooth performance during gameplay, especially with complex animations and move calculations, was another challenge that I overcame by optimizing the game loop and utilizing multi-threading. As the sole developer, I also encountered challenges in project management, maintaining motivation and focus, and learning new technologies. I developed a disciplined schedule, used project management tools, and set clear, achievable milestones to ensure steady progress and timely completion. Engaging with online communities and mentors for feedback and encouragement, as well as scheduling regular breaks, helped me maintain motivation and avoid burnout. Working on "Game Battle" has deepened my interest in game development and algorithm design. I have gained valuable experience in applying object-oriented principles to solve complex problems and designing intuitive user interfaces. This project has also sparked an interest in exploring AI development for future enhancements, such as implementing a chess engine to provide challenging computer opponents.
 
 ## Next Steps
-For future iterations of "Game Battle," I envision several key improvements and additions:
+For future iterations of Game Battle, I envision several key improvements and additions:
 
-    Implementing a chess engine: Developing an AI-powered chess engine to provide challenging computer opponents and enable single-player mode.
-    Adding online multiplayer: Integrating online features to allow players to challenge each other in real-time over the internet.
-    Enhancing the user interface: Refining the UI with more intuitive controls, animations, and visual effects to create an even more immersive gaming experience.
-    Implementing game modes: Introducing different game modes, such as timed games, tournaments, and puzzles, to add variety and cater to different player preferences.
-    Providing player statistics and rankings: Tracking player statistics, such as win-loss records and rating, and displaying player rankings to foster a sense of progression and competition.
+Implementing a chess engine: Developing an AI-powered chess engine to provide challenging computer opponents and enable single-player mode.
+Adding online multiplayer: Integrating online features to allow players to challenge each other in real-time over the internet.
+Enhancing the user interface: Refining the UI with more intuitive controls, animations, and visual effects to create an even more immersive gaming experience.
+Implementing game modes: Introducing different game modes, such as timed games, tournaments, and puzzles, to add variety and cater to different player preferences.
+Providing player statistics and rankings: Tracking player statistics, such as win-loss records and rating, and displaying player rankings to foster a sense of progression and competition.
 
 
 By continuously enhancing the game's features and functionality, I aim to create a comprehensive and engaging chess platform that will appeal to a wide range of players, from casual enthusiasts to seasoned strategists.
